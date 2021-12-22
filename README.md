@@ -1,2 +1,0 @@
-# FlotaVehicular_Backend
-
